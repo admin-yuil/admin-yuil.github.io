@@ -20,7 +20,7 @@ direction                : # "ltr" (default), "rtl" # set the direction of the p
 title                    : "원스톱인허가행정사 유일"
 title_separator          : "-"
 subtitle                 : # "복잡한 인허가, 이제 '유일' 행정사와 함께 한 번에 해결하세요."
-name                     : "Your Name"
+name                     : "송 병철"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
